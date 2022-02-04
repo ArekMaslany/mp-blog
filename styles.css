@@ -74,14 +74,14 @@ body {
 /* Add a card effect for articles */
 
 .homecard {
+    text-align: center;
     background-color: #95b8d7;
     padding: 20px;
-    line-height: 8px;
+    line-height: 13px;
     font-size: 18px;
     color: #274c6d;
     margin-top: 20px;
-    overflow: auto;
-    height: 74vh;
+    /* height: 74vh; */
 }
 
 
@@ -90,7 +90,7 @@ body {
 .card {
     background-color: #95b8d7;
     padding: 20px;
-    line-height: 8px;
+    /* line-height: 8px; */
     font-size: 18px;
     color: #274c6d;
     margin-top: 20px;
